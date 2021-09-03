@@ -1,5 +1,4 @@
 ## HackerRank Certificates
-<hr>
 
 <a href="https://www.hackerrank.com/certificates/f60ec3bf42af">
 <img src="https://github.com/ShihabAhmed09/Certificates/blob/main/Badges/python_basic_skill.png?raw=true">
@@ -9,12 +8,11 @@
 </a>
 
 ## Certificates
-<hr>
 
 <table style="text-align: center;">
     <tr>
         <th>Skill</th>
-        <th>Issuing organization</th>
+        <th>Issuing Organization</th>
         <th>Description</th>
         <th>Certificate</th>
     </tr>
