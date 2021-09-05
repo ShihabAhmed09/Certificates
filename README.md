@@ -9,6 +9,9 @@
 <a href="https://www.hackerrank.com/certificates/bdb6641a4882">
 <img src="https://github.com/ShihabAhmed09/Certificates/blob/main/Badges/sql_basic_skill.png?raw=true">
 </a>
+<a href="https://www.hackerrank.com/certificates/bb78412d6989">
+<img src="https://github.com/ShihabAhmed09/Certificates/blob/main/Badges/sql_intermediate_skill.png?raw=true">
+</a>
 
 ## Certificates
 
@@ -45,6 +48,12 @@
         <td>HackerRank</td>
         <td>Simple Queries, Relationships, and Aggregators.</td>
         <td><a href="https://www.hackerrank.com/certificates/bdb6641a4882">Certificate</a></td>
+    </tr>
+    <tr>
+        <td>SQL (Intermediate)</td>
+        <td>HackerRank</td>
+        <td>Complex Joins, Unions, and Sub-Queries..</td>
+        <td><a href="https://www.hackerrank.com/certificates/bb78412d6989">Certificate</a></td>
     </tr>
     <tr>
         <td>Programming for Everybody (Getting Started with Python)</td>
