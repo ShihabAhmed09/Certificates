@@ -6,6 +6,9 @@
 <a href="https://www.hackerrank.com/certificates/b559d4d72fec">
 <img src="https://github.com/ShihabAhmed09/Certificates/blob/main/Badges/problem_solving_basic_skill.png?raw=true">
 </a>
+<a href="https://www.hackerrank.com/certificates/b559d4d72fec">
+<img src="https://github.com/ShihabAhmed09/Certificates/blob/main/Badges/problem_solving_basic_skill.png?raw=true">
+</a>
 
 ## Certificates
 
