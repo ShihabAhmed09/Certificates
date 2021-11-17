@@ -56,6 +56,18 @@
         <td><a href="https://www.hackerrank.com/certificates/bb78412d6989" target="_blank">Certificate</a></td>
     </tr>
     <tr>
+        <td>Python for Everybody Specialization</td>
+        <td>Coursera</td>
+        <td>Courses Covered in this Specialization: <br>
+            1. Programming for Everybody (Getting Started with Python) <br>
+            2. Python Data Structures <br>
+            3. Using Python to Access Web Data <br> 
+            4. Using Databases with Python <br>
+            5. Capstone: Retrieving, Processing, and Visualizing Data with Python
+        </td>
+        <td><a href="https://www.coursera.org/account/accomplishments/certificate/KYP5PVCD6VAU" target="_blank">Certificate</a></td>
+    </tr>
+    <tr>
         <td>Programming for Everybody (Getting Started with Python)</td>
         <td>Coursera</td>
         <td>Python Syntax And Semantics, Basic Programming Language ,Computer Programming,
